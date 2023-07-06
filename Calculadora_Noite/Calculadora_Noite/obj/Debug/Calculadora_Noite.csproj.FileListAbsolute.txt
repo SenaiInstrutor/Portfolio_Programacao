@@ -1,0 +1,7 @@
+C:\Users\jogos\Calculadora_Noite\Calculadora_Noite\bin\Debug\Calculadora_Noite.exe.config
+C:\Users\jogos\Calculadora_Noite\Calculadora_Noite\bin\Debug\Calculadora_Noite.exe
+C:\Users\jogos\Calculadora_Noite\Calculadora_Noite\bin\Debug\Calculadora_Noite.pdb
+C:\Users\jogos\Calculadora_Noite\Calculadora_Noite\obj\Debug\Calculadora_Noite.csproj.AssemblyReference.cache
+C:\Users\jogos\Calculadora_Noite\Calculadora_Noite\obj\Debug\Calculadora_Noite.csproj.CoreCompileInputs.cache
+C:\Users\jogos\Calculadora_Noite\Calculadora_Noite\obj\Debug\Calculadora_Noite.exe
+C:\Users\jogos\Calculadora_Noite\Calculadora_Noite\obj\Debug\Calculadora_Noite.pdb
